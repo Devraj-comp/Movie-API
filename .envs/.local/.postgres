@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=omdb_api
+POSTGRES_USER=jFbFqFdsfPBCDytjMtntSfQGRFzctTyd
+POSTGRES_PASSWORD=irLY8pA48oPSykQFzcNfx4jrOZel3FbkNHOPjuoUpRzWUktDMBnWZBBCgckJEVQ3
